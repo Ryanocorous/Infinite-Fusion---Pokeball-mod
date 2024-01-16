@@ -1,0 +1,1 @@
+Open a folder and copy and paste all contents into the directory where Game.exe or Game is
